@@ -57,11 +57,11 @@ Link do Site a empresa: [infranology]
 
 # Minhas Redes Socias
 
-- LinkedIn [linkedin] 
-- WhatsApp [whatsapp]
+- [LinkedIn] 
+- [WhatsApp]
 
 [//]: #
 [visualmode]: https://visualmode.com.br/
 [infranology]: https://infranology.com.br/
-[linkedin]: https://www.linkedin.com/in/paulo-eduardo-peixoto-2155a866/
-[whatsapp]: https://api.whatsapp.com/send?phone=5512988268618
+[LinkedIn]: https://www.linkedin.com/in/paulo-eduardo-peixoto-2155a866/
+[WhatsApp]: https://api.whatsapp.com/send?phone=5512988268618
