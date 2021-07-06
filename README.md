@@ -1,4 +1,4 @@
-![img]
+![img](https://github.com/padupe/pauloeduardopeixoto/blob/master/github/Node%20Back-End%20Developer.png)
 
 # 2020
 
