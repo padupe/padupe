@@ -19,7 +19,7 @@
 
 - Desenvolvimento de Aplicações em Nodejs/ReactJS.
 
-[visualmode]
+Link do Site da empresa: [visualmode]
 
 
 # 2021
@@ -55,7 +55,13 @@ Link do Site a empresa: [infranology]
 * Autenticação com JWT
 * GraphQL
 
+# Minhas Redes Socias
+
+LinkedIn -> [linkedin] 
+WhatsApp -> [whatsapp]
 
 [//]: #
 [visualmode]: https://visualmode.com.br/
 [infranology]: https://infranology.com.br/
+[linkedin]: https://www.linkedin.com/in/paulo-eduardo-peixoto-2155a866/
+[whatsapp]: https://api.whatsapp.com/send?phone=5512988268618
