@@ -57,8 +57,8 @@ Link do Site a empresa: [infranology]
 
 # Minhas Redes Socias
 
-LinkedIn -> [linkedin] 
-WhatsApp -> [whatsapp]
+- LinkedIn [linkedin] 
+- WhatsApp [whatsapp]
 
 [//]: #
 [visualmode]: https://visualmode.com.br/
