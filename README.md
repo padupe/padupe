@@ -54,6 +54,8 @@
 * ORM Prisma
 * Autenticação com JWT
 * GraphQL
+* REST
+* Logging
 
 # Minhas Redes Socias
 
