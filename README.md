@@ -1,17 +1,17 @@
 ![img](https://github.com/padupe/pauloeduardopeixoto/blob/master/github/Node%20Back-End%20Developer.png)
-
+=============
 # 2020
 
 **Início do processo de transição de carreira**
 
-> Possuo Bacharelado em Administração (UNIP) e Pós Graduação em Ensino Superior (UNITAU)
+> Possuo Bacharelado em Administração ([UNIP](https://unip.br/, "UNIP")) e Pós Graduação em Ensino Superior ([UNITAU](https://www.unitau.br/, "UNITAU"))
 > Liderei o projeto de implantação de Sistema de Gestão do Transporte Público Escolar da Secretaria de Educação e Cidadania de São José dos Campos/SP
 
 - Iniciei os estudos em programação em setembro/2020.
 
 ## Primeiro Estágio
 
-### Visual Mode
+### [Visual Mode](https://visualmode.com.br/ "Visual Mode")
 
 | *Início*  |  *Término* |
 |:-:|:-:|
@@ -19,22 +19,18 @@
 
 - Desenvolvimento de Aplicações em Nodejs/ReactJS.
 
-Link do Site da empresa: [visualmode]
-
-
+-------------
 # 2021
 
 ## Nova Oportunidade de Estágio
 
-### Infranology
+### [Infranology](https://infranology.com.br/ "Infranology")
 
 - Desenvolvimento de Aplicação para e-commerce baseada em Nodejs, utilizando Express, Prisma, Postgres, Docker, TDD e diversas bibliotecas complementares.
 
 | *Início*  |  *Término* |
 |:-:|:-:|
 |  Abr/2021 |  Atual |
-
-Link do Site a empresa: [infranology]
 
 # Competências Chaves
 
@@ -61,7 +57,6 @@ Link do Site a empresa: [infranology]
 - [WhatsApp]
 
 [//]: #
-[visualmode]: https://visualmode.com.br/
-[infranology]: https://infranology.com.br/
+
 [LinkedIn]: https://www.linkedin.com/in/paulo-eduardo-peixoto-2155a866/
 [WhatsApp]: https://api.whatsapp.com/send?phone=5512988268618
