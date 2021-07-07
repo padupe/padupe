@@ -4,7 +4,7 @@
 
 **Início do processo de transição de carreira**
 
-> Possuo Bacharelado em Administração ([UNIP](https://unip.br/, "UNIP")) e Pós Graduação em Ensino Superior ([UNITAU](https://www.unitau.br/, "UNITAU"))
+> Possuo Bacharelado em Administração ([UNIP](https://unip.br/ "UNIP")) e Pós Graduação em Ensino Superior ([UNITAU](https://www.unitau.br/ "UNITAU"))
 > Liderei o projeto de implantação de Sistema de Gestão do Transporte Público Escolar da Secretaria de Educação e Cidadania de São José dos Campos/SP
 
 - Iniciei os estudos em programação em setembro/2020.
