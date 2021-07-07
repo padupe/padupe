@@ -33,6 +33,9 @@
 |:-:|:-:|
 |  Abr/2021 |  Atual |
 
+#### Exemplo de Endpoint com Autenticação
+![gif](https://github.com/padupe/pauloeduardopeixoto/blob/master/github/endpoint_auth.gif)
+
 # Competências Chaves
 
 * JavaScript
