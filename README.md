@@ -16,7 +16,6 @@
 * Docker
 * SQLite
 * MySQL
-* SQLite
 * PostgreSQL
 
 # Experiências
@@ -24,7 +23,7 @@
 * ORM Prisma
 * Autenticação com JWT
 * GraphQL
-* REST
+* API Rest
 * Logging
 
 # 2020
