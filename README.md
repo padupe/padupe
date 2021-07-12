@@ -1,6 +1,10 @@
 ![img](https://github.com/padupe/padupe/blob/master/github/Node%20Back-End%20Developer.png)
 =============
 
+> Possuo Bacharelado em Administração ([UNIP](https://unip.br/ "UNIP")) e Pós Graduação em Ensino Superior ([UNITAU](https://www.unitau.br/ "UNITAU"))
+
+> Liderei o projeto de implantação de Sistema de Gestão do Transporte Público Escolar da Secretaria de Educação e Cidadania de São José dos Campos/SP
+
 # Competências Chaves
 
 * JavaScript
@@ -23,15 +27,10 @@
 * REST
 * Logging
 
-=============
-
 # 2020
 
 **Início do processo de transição de carreira**
 
-> Possuo Bacharelado em Administração ([UNIP](https://unip.br/ "UNIP")) e Pós Graduação em Ensino Superior ([UNITAU](https://www.unitau.br/ "UNITAU"))
-
-> Liderei o projeto de implantação de Sistema de Gestão do Transporte Público Escolar da Secretaria de Educação e Cidadania de São José dos Campos/SP
 
 - Iniciei os estudos em programação em setembro/2020.
 
