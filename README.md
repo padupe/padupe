@@ -1,5 +1,30 @@
 ![img](https://github.com/padupe/padupe/blob/master/github/Node%20Back-End%20Developer.png)
 =============
+
+# Competências Chaves
+
+* JavaScript
+* Nodejs
+* Express
+* HTML
+* CSS
+* Testes Unitários e de Integração
+* Docker
+* SQLite
+* MySQL
+* SQLite
+* PostgreSQL
+
+# Experiências
+
+* ORM Prisma
+* Autenticação com JWT
+* GraphQL
+* REST
+* Logging
+
+=============
+
 # 2020
 
 **Início do processo de transição de carreira**
@@ -27,7 +52,7 @@
 
 ### [Infranology](https://infranology.com.br/ "Infranology")
 
-- Desenvolvimento de Aplicação para e-commerce baseada em Nodejs, utilizando Express, Prisma, Postgres, Docker, TDD e diversas bibliotecas complementares.
+- Desenvolvimento de Aplicação para e-commerce baseada em Nodejs, utilizando Express, ORM Prisma, PostgreSQL, Docker, Testes Unitários e de Integração e diversas bibliotecas complementares.
 
 | *Início*  |  *Término* |
 |:-:|:-:|
@@ -35,27 +60,18 @@
 
 #### Exemplo de Endpoint com Autenticação
 ![gif](https://github.com/padupe/pauloeduardopeixoto/blob/master/github/endpoint_auth.gif)
+---
 
-# Competências Chaves
+## Projeto Pessoal
 
-* JavaScript
-* Nodejs
-* Express
-* HTML
-* CSS
-* TDD
-* Docker
-* SQLite
-* MySQL
-* Postgres
+- [Controle de Atividades Escolares](https://github.com/padupe/controle_atividades_escolares "Controle de Atividades Escolares")
 
-# Experiências
+API desenvolvida com base em Nodejs para Controle de Atividades realizadas por alunos de uma escola.
 
-* ORM Prisma
-* Autenticação com JWT
-* GraphQL
-* REST
-* Logging
+_**OBSERVAÇÃO:** Projeto em desenvolvimento._
+
+> Trabalho voluntário utilizado como base de estudos para auxiliar a Equipe Gestora da EMEI "Profª. Zilda Costa de Oliveira" de São José dos Campos/SP.
+
 
 # Minhas Redes Socias
 
