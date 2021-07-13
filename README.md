@@ -7,8 +7,8 @@
 
 # Competências Chaves
 
-* JavaScript
 * Nodejs
+* JavaScript
 * Express
 * HTML
 * CSS
@@ -17,6 +17,8 @@
 * SQLite
 * MySQL
 * PostgreSQL
+* Git
+* GitFlow
 
 # Experiências
 
