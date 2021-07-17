@@ -27,6 +27,7 @@
 * GraphQL
 * API Rest
 * Logging
+* Conventional Commits
 
 # 2020
 
