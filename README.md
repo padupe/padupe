@@ -28,6 +28,7 @@
 * API Rest
 * Logging
 * Conventional Commits
+* Metodologias Ágeis -> Kanban
 
 # 2020
 
