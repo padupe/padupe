@@ -30,6 +30,7 @@
 * Conventional Commits
 * Metodologias Ágeis
     * Kanban
+    * SCRUM
 
 # 2020
 
