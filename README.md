@@ -31,9 +31,9 @@
 
 > Liderei o projeto de implantação de Sistema de Gestão do Transporte Público Escolar da Secretaria de Educação e Cidadania de São José dos Campos/SP
 
-# Competências Chaves
+# 💡 Competências Chaves
 
-* Nodejs
+* Node.js
 * JavaScript
 * TypeScript
 * Express
@@ -45,19 +45,33 @@
 * MySQL
 * PostgreSQL
 * Git
-* GitFlow
 
-# Experiências
+# ⚙ Experiências
 
-* ORM Prisma
-* Autenticação com JWT
-* GraphQL
 * API Rest
-* Logging
+* Autenticação com JWT
 * Conventional Commits
+* GitFlow
+* GraphQL
+* Logging
 * Metodologias Ágeis
     * Kanban
     * SCRUM
+* Prisma ORM
+* Swagger
+* TypeORM
+
+
+# 💎 SoftSkils
+
+* Criatividade
+* Empatia
+* Facilidade em construir e expor ideias
+* Flexibilidade
+* Pensamento Crítico
+* Relacionamento Interpessoal
+* Trabalho em Equipe
+
 
 # 2020
 
