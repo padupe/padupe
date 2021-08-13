@@ -62,7 +62,7 @@
 * TypeORM
 
 
-# 💎 SoftSkils
+# 💎 Soft Skils
 
 * Criatividade
 * Empatia
