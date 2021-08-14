@@ -1,4 +1,4 @@
-![img](https://github.com/padupe/padupe/blob/master/github/Node%20Back-End%20Developer.png)
+![img](https://github.com/padupe/padupe/blob/master/github/%7B%20Paulo%20Eduardo%20Peixoto%20%7D.png)
 =============
 
  <div align="center">
