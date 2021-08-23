@@ -101,7 +101,7 @@
 
 | *Início*  |  *Término* |
 |:-:|:-:|
-|  Abr/2021 |  Atual |
+|  Abr/2021 |  Ago/2021 |
 
 #### Exemplo de Endpoint com Autenticação
    <div align="center">
@@ -109,6 +109,18 @@
    </div>
 
 ##
+
+## Analista de Sistemas Jr
+
+### [MadeiraMadeira](https://www.madeiramadeira.com.br/ "MadeiraMadeira")
+
+- Integrando o time de SRE - _Site Reliability Enginnering_.
+
+| *Início*  |  *Término* |
+|:-:|:-:|
+|  Ago/2021 |  Atual |
+
+-------------
 
 ## Projeto Pessoal
 
