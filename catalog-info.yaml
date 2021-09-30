@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: padupe/padupe
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: poc
   owner: sre
