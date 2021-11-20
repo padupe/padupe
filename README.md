@@ -72,6 +72,10 @@
 * Relacionamento Interpessoal
 * Trabalho em Equipe
 
+# 📚️ Estou Estudando
+ 
+* GoLang
+
 
 # 2020
 
