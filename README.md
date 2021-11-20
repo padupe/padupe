@@ -37,8 +37,6 @@
 * JavaScript
 * TypeScript
 * Express
-* HTML
-* CSS
 * Testes Unitários e de Integração
 * Docker
 * SQLite
@@ -51,8 +49,10 @@
 * API Rest
 * Autenticação com JWT
 * Conventional Commits
+* CSS
 * GitFlow
 * GraphQL
+* HTML
 * Logging
 * Metodologias Ágeis
     * Kanban
