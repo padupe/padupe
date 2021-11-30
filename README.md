@@ -1,4 +1,4 @@
-![img](https://github.com/padupe/padupe/blob/master/github/Hello_Wordl.svg)
+![img](https://github.com/padupe/padupe/blob/master/github/Hello_World.svg)
 =============
 
  <div align="center">
