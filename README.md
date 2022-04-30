@@ -73,9 +73,9 @@
 
 # 📚️ Estou Estudando
  
-* GoLang
+* SOLID
 
-
+ 
 # 2020
 
 **Início do processo de transição de carreira**
@@ -86,6 +86,17 @@
 ## Primeiro Estágio
 
 ### [Visual Mode](https://visualmode.com.br/ "Visual Mode")
+ 
+#### TECNOLOGIAS/FERRAMENTAS UTILIZADAS:
+- CSS
+- Express
+- GitHub (Versionamento)
+- HTML
+- Javascript
+- MySQL
+- Node.js
+- React
+- SCRUM
 
 | *Início*  |  *Término* |
 |:-:|:-:|
@@ -101,15 +112,28 @@
 ### [Infranology](https://infranology.com.br/ "Infranology")
 
 - Desenvolvimento de Aplicação para e-commerce baseada em Nodejs, utilizando Express, ORM Prisma, PostgreSQL, Docker, Testes Unitários e de Integração e diversas bibliotecas complementares.
-
+ 
+ 
+#### TECNOLOGIAS/FERRAMENTAS UTILIZADAS:
+- Autenticação JWT
+- Docker
+- Estrutura MVC
+- Express
+- GitLab (Versionamento)
+- Javascript
+- Jest
+- Kanban
+- Logging
+- Node.js
+- Prisma ORM
+- Super Test
+- SQLite
+- PostgreSQL
+ 
 | *Início*  |  *Término* |
 |:-:|:-:|
 |  Abr/2021 |  Ago/2021 |
 
-#### Exemplo de Endpoint com Autenticação
-   <div align="center">
-      <img align="center" src="https://github.com/padupe/pauloeduardopeixoto/blob/master/github/endpoint_auth.gif">
-   </div>
 
 ##
 
@@ -118,19 +142,39 @@
 ### [MadeiraMadeira](https://www.madeiramadeira.com.br/ "MadeiraMadeira")
 
 - Integrando o time de SRE - _Site Reliability Enginnering_.
+ 
+ #### Monitoria de Aplicações e Serviços**
+- AWS;
+- Grafana;
+- New Relic;
+
+#### Portal do Desenvolvedor (baseado no [Backstage](https://backstage.io/) do Spotify)
+- Arquiteturas de Referência;
+- Documentações;
+- Ferramentas Utilizadas;
+- Integração com o GitHub;
+- Onboarding Tech;
+- Radar Tecnológico (Tecnologias e Soluções utilizadas);
+
+##### TECNOLOGIAS/FERRAMENTAS UTILIZADAS:
+- API Gateway (Kong)
+- AWS
+- Confluence
+- Docker
+- GitHub (Actions, App's e Versionamento)
+- Grafana
+- Javascript
+- Jira
+- MySQL
+- New Relic
+- Node.js
+- NoSQL
+- PostgreSQL
+- Python
+- SCRUM
+- Terraform
+- Typescript
 
 | *Início*  |  *Término* |
 |:-:|:-:|
 |  Ago/2021 |  Atual |
-
--------------
-
-## Projeto Pessoal
-
-- [Controle de Atividades Escolares](https://github.com/padupe/controle_atividades_escolares "Controle de Atividades Escolares")
-
-API desenvolvida com base em Nodejs para Controle de Atividades realizadas por alunos de uma escola.
-
-_**OBSERVAÇÃO:** Projeto em desenvolvimento._
-
-> Trabalho voluntário utilizado como base de estudos para auxiliar a Equipe Gestora da EMEI "Profª. Zilda Costa de Oliveira" de São José dos Campos/SP.
