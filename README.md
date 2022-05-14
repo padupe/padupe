@@ -72,7 +72,8 @@
 * Trabalho em Equipe
 
 # 📚️ Estou Estudando
- 
+
+* Python
 * SOLID
 
  
