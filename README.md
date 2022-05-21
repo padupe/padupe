@@ -144,7 +144,7 @@
 
 - Integrando o time de SRE - _Site Reliability Enginnering_.
  
- #### Monitoria de Aplicações e Serviços**
+ #### Monitoria de Aplicações e Serviços
 - AWS;
 - Grafana;
 - New Relic;
