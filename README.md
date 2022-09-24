@@ -10,9 +10,10 @@
       <img align="center" alt="Padupe-Node" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
       <img align="center" alt="Padupe-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Padupe-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img align="center" alt="Padupe-Go" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+      <img align="center" alt="Padupe-Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
       <img align="center" alt="Padupe-Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
-      <img align="center" alt="Padupe-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">     
+      <img align="center" alt="Padupe-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
+      <img align="center" alt="Padupe-Linux" height=40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
    
    ##
@@ -36,6 +37,8 @@
 * JavaScript
 * TypeScript
 * Express
+* Linux
+  * Ubuntu
 * Testes Unitários e de Integração
 * Docker
 * SQLite
@@ -57,6 +60,7 @@
     * Kanban
     * SCRUM
 * Prisma ORM
+* Python
 * Swagger
 * TypeORM
 
@@ -73,22 +77,21 @@
 
 # 📚️ Estou Estudando
 
-* Python
+* NestJS (Framework)
 * SOLID
 
  
-# 2020
+# Experiência Profissional
 
-**Início do processo de transição de carreira**
+## [Visual Mode](https://visualmode.com.br/ "Visual Mode")
 
+## Nível
+Estagiário
 
-- Iniciei os estudos em programação em setembro/2020.
-
-## Primeiro Estágio
-
-### [Visual Mode](https://visualmode.com.br/ "Visual Mode")
+## Objetivo
+Desenvolvimento de aplicações Web utilizando React.
  
-#### TECNOLOGIAS/FERRAMENTAS UTILIZADAS:
+### Tecnologias/Ferramentas Utilizadas
 - CSS
 - Express
 - GitHub (Versionamento)
@@ -97,25 +100,26 @@
 - MySQL
 - Node.js
 - React
+
+### Metodologias adotada
 - SCRUM
 
 | *Início*  |  *Término* |
 |:-:|:-:|
 |  Dez/2020 |  Abr/2021 |
 
-- Desenvolvimento de Aplicações em Nodejs/ReactJS.
+##
 
--------------
-# 2021
+## [Infranology](https://infranology.com.br/ "Infranology")
 
-## Nova Oportunidade de Estágio
+## Nível
+Estagiário
 
-### [Infranology](https://infranology.com.br/ "Infranology")
-
-- Desenvolvimento de Aplicação para e-commerce baseada em Nodejs, utilizando Express, ORM Prisma, PostgreSQL, Docker, Testes Unitários e de Integração e diversas bibliotecas complementares.
+## Objetivo
+Desenvolvimento de Aplicação para e-commerce baseada em Nodejs, utilizando Express, ORM Prisma, PostgreSQL, Docker, Testes Unitários e de Integração e diversas bibliotecas complementares.
  
  
-#### TECNOLOGIAS/FERRAMENTAS UTILIZADAS:
+#### Tecnologias/Ferramentas Utilizadas
 - Autenticação JWT
 - Docker
 - Estrutura MVC
@@ -135,29 +139,36 @@
 |:-:|:-:|
 |  Abr/2021 |  Ago/2021 |
 
-
 ##
 
-## Analista de Sistemas Jr
+## [MadeiraMadeira](https://www.madeiramadeira.com.br/ "MadeiraMadeira")
 
-### [MadeiraMadeira](https://www.madeiramadeira.com.br/ "MadeiraMadeira")
+## Nível
+Júnior
 
-- Integrando o time de SRE - _Site Reliability Enginnering_.
+### Integrando o time de SRE - _Site Reliability Enginnering_
+> Agosto/2021 - Junho/2022
  
  #### Monitoria de Aplicações e Serviços
 - AWS;
 - Grafana;
-- New Relic;
+- New Relic.
+
+### Integrando o time de DX - _Developer Experience_
+> Julho/2022 - Até o momento
 
 #### Portal do Desenvolvedor (baseado no [Backstage](https://backstage.io/) do Spotify)
 - Arquiteturas de Referência;
 - Documentações;
 - Ferramentas Utilizadas;
 - Integração com o GitHub;
+  - Usuários;
+  - Squads;
+  - Projetos.
 - Onboarding Tech;
 - Radar Tecnológico (Tecnologias e Soluções utilizadas);
 
-##### TECNOLOGIAS/FERRAMENTAS UTILIZADAS:
+#### Tecnologias/Ferramentas Utilizadas
 - API Gateway (Kong)
 - AWS
 - Confluence
@@ -172,9 +183,13 @@
 - NoSQL
 - PostgreSQL
 - Python
-- SCRUM
+- React
 - Terraform
 - Typescript
+
+### Metodologias adotadas
+- Kanban
+- SCRUM
 
 | *Início*  |  *Término* |
 |:-:|:-:|
