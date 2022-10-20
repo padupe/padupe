@@ -1,4 +1,4 @@
-![img](https://github.com/padupe/padupe/blob/master/github/Hello_World.svg)
+![](./github/Hello_World.svg)
 =============
 
  <div align="center">
@@ -10,6 +10,7 @@
       <img align="center" alt="Padupe-Node" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
       <img align="center" alt="Padupe-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Padupe-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" alt="Padupe-Backstage" height="40" width="40" src="https://github.com/padupe/padupe/blob/master/github/backstage_logo.png">
       <img align="center" alt="Padupe-Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
       <img align="center" alt="Padupe-Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
       <img align="center" alt="Padupe-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
@@ -29,13 +30,15 @@
    
 > Possuo Bacharelado em Administração ([UNIP](https://unip.br/ "UNIP")) e Pós Graduação em Ensino Superior ([UNITAU](https://www.unitau.br/ "UNITAU"))
 
-> Liderei o projeto de implantação de Sistema de Gestão do Transporte Público Escolar da Secretaria de Educação e Cidadania de São José dos Campos/SP
+> Liderei o projeto de implantação de Sistema de Gestão do Transporte Público Escolar da Secretaria de Educação e Cidadania de São José dos Campos/SP entre os anos 2017 e 2018
 
 # 💡 Competências Chaves
 
 * Node.js
 * JavaScript
 * TypeScript
+* [Backstage](https://backstage.io/)
+  * _Developer Experience_
 * Express
 * Linux
   * Ubuntu
@@ -85,10 +88,10 @@
 
 ## [Visual Mode](https://visualmode.com.br/ "Visual Mode")
 
-## Nível
+### Nível
 Estagiário
 
-## Objetivo
+### Objetivo
 Desenvolvimento de aplicações Web utilizando React.
  
 ### Tecnologias/Ferramentas Utilizadas
@@ -112,14 +115,14 @@ Desenvolvimento de aplicações Web utilizando React.
 
 ## [Infranology](https://infranology.com.br/ "Infranology")
 
-## Nível
+### Nível
 Estagiário
 
-## Objetivo
+### Objetivo
 Desenvolvimento de Aplicação para e-commerce baseada em Nodejs, utilizando Express, ORM Prisma, PostgreSQL, Docker, Testes Unitários e de Integração e diversas bibliotecas complementares.
  
  
-#### Tecnologias/Ferramentas Utilizadas
+### Tecnologias/Ferramentas Utilizadas
 - Autenticação JWT
 - Docker
 - Estrutura MVC
@@ -134,6 +137,9 @@ Desenvolvimento de Aplicação para e-commerce baseada em Nodejs, utilizando Exp
 - Super Test
 - SQLite
 - PostgreSQL
+
+### Metodologias adotada
+- Kanban
  
 | *Início*  |  *Término* |
 |:-:|:-:|
@@ -143,8 +149,8 @@ Desenvolvimento de Aplicação para e-commerce baseada em Nodejs, utilizando Exp
 
 ## [MadeiraMadeira](https://www.madeiramadeira.com.br/ "MadeiraMadeira")
 
-## Nível
-Júnior
+### Nível
+Júnior -> Pleno
 
 ### Integrando o time de SRE - _Site Reliability Enginnering_
 > Agosto/2021 - Junho/2022
@@ -155,7 +161,7 @@ Júnior
 - New Relic.
 
 ### Integrando o time de DX - _Developer Experience_
-> Julho/2022 - Até o momento
+> Julho/2022 - 14/Outubro/2022
 
 #### Portal do Desenvolvedor (baseado no [Backstage](https://backstage.io/) do Spotify)
 - Arquiteturas de Referência;
@@ -193,4 +199,40 @@ Júnior
 
 | *Início*  |  *Término* |
 |:-:|:-:|
-|  Ago/2021 |  Atual |
+|  Ago/2021 |  Out/2022 |
+
+##
+
+## [Raízen](https://raizen.com/ "Raízen")
+
+### Nível
+Pleno
+
+### Objetivo
+- Implementação do [Backstage](https://backstage.io/) na organização;
+  - Catálogo de Software;
+  - Documentações Técnicas;
+  - Templates.
+  - Integrações
+    - AWS;
+    - Azure;
+    - GitHub.
+
+#### Tecnologias/Ferramentas Utilizadas
+- AWS
+- Confluence
+- Docker
+- GitHub (Actions, App's e Versionamento)
+- Javascript
+- Node.js
+- PostgreSQL
+- React
+- Typescript
+
+### Metodologias adotadas
+- Kanban
+- SCRUM
+
+| *Início*  |  *Término* |
+|:-:|:-:|
+|  Out/2022 |  Atual |
