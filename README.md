@@ -219,6 +219,7 @@ Pleno
     - GitHub.
 
 #### Tecnologias/Ferramentas Utilizadas
+- Azure
 - AWS
 - Confluence
 - Docker
