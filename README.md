@@ -28,9 +28,11 @@
 
    ##
    
-> Possuo Bacharelado em Administração ([UNIP](https://unip.br/ "UNIP")) e Pós Graduação em Ensino Superior ([UNITAU](https://www.unitau.br/ "UNITAU"))
+> Possuo **Bacharelado em Administração** ([UNIP](https://unip.br/ "UNIP")) e Pós-Graduação em **Docência Ensino Superior** ([UNITAU](https://www.unitau.br/ "UNITAU"))
 
 > Liderei o projeto de implantação de Sistema de Gestão do Transporte Público Escolar da Secretaria de Educação e Cidadania de São José dos Campos/SP entre os anos 2017 e 2018
+                                                                                                                                                    
+> Cursando Pós-Graduação em **Arquitetura de Software** ([Anhanguera Educacional](https://www.anhanguera.com/ "Anhanguera Educacional"))
 
 # 💡 Competências Chaves
 
@@ -82,7 +84,7 @@
 
 * NestJS (Framework)
 * SOLID
-
+* Pós-Graduação em Arquitetura de Software
  
 # Experiência Profissional
 
@@ -211,23 +213,30 @@ Pleno
 ### Objetivo
 - Implementação do [Backstage](https://backstage.io/) na organização;
   - Catálogo de Software;
+  - Desenvolvimento de plugins personalizados;
   - Documentações Técnicas;
   - Templates.
   - Integrações
-    - AWS;
-    - Azure;
-    - GitHub.
+    - ArgoCD;
+    - Dynatrace;
+    - GitHub;
+    - Microsoft Azure;
+    - Service Now;
+    - Sonarqube.
+  - Radar de Tecnologias.
 
 #### Tecnologias/Ferramentas Utilizadas
-- Azure
-- AWS
 - Confluence
 - Docker
 - GitHub (Actions, App's e Versionamento)
 - Javascript
+- Knex
+- Kubernetes
+- Microsoft Azure Devops
 - Node.js
 - PostgreSQL
 - React
+- Terraform
 - Typescript
 
 ### Metodologias adotadas
